@@ -18,4 +18,4 @@ A -: [0-9]+
 
 Note that the A value is provided in terms of a regular expression, allowing for 1 or more of 0-9. Be sure the tokenizer, parser, and evaluation components all work. You will need to modify the token and exp types, the tokenizer, the parser, and the evaluation.
 
-When you submit your microproject, please include both your code and a screenshot of your code producing reasonable output.
+When you submit your microproject to GitHub, please include both your code and a screenshot of your code producing reasonable outputs (at least 5 examples).
