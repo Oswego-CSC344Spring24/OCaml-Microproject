@@ -1,4 +1,4 @@
-# OCaml-Microproject
+# OCaml Microproject
 
 Begin with the code from the class example featuring a recursive descent parser in OCaml. That program implements a tokenizer and parser for the following grammar:
 ```OCaml
